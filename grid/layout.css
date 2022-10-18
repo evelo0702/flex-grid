@@ -6,7 +6,7 @@ body{
     grid-template-columns: 3fr 1fr;
     grid-template-rows: 100px auto 50px;
     grid-template-areas: 
-    'header header'
+    'header abc'
     'main aside'
     'footer footer';
 }
